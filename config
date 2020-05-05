@@ -313,12 +313,3 @@ mode "sql" {
 
 }
 bindsym F9 mode "sql"
-
-mode "test" {
-   bindsym Escape mode "default"
-
-   bindsym a nop
-
-}
-
-bindsym F10 mode "test"
